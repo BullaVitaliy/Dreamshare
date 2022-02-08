@@ -1,6 +1,6 @@
 # Dreamshare
 Landing Page
-[Whach here]()
+[deploy here](https://bullavitaliy.github.io/Dreamshare/)
 
 ![image](https://user-images.githubusercontent.com/47871151/153064148-ab39df76-707a-4d15-810c-e0b833c272d4.png)
 ![image](https://user-images.githubusercontent.com/47871151/153063073-1306f7fd-43a3-427e-a029-f1f709bbfcac.png)
