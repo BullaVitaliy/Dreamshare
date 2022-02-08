@@ -1,5 +1,5 @@
 # Dreamshare
-Landing Page
+Landing Page (with GULP) 
 [deploy here](https://bullavitaliy.github.io/Dreamshare/)
 
 ![image](https://user-images.githubusercontent.com/47871151/153064148-ab39df76-707a-4d15-810c-e0b833c272d4.png)
